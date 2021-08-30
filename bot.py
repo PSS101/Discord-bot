@@ -153,4 +153,4 @@ async def clear_error(ctx, error):
     await ctx.send('Syntax error please try again')
 
 
-client.run('Nzk0NTk0MjUyNjg0MjYzNDM0.X-9FkA.ElyptcL30yc-979JZCz1qO6LRCQ')
+client.run('enter bot token here')
